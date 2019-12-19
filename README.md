@@ -1,0 +1,2 @@
+# yangmiemie
+Python beginner
